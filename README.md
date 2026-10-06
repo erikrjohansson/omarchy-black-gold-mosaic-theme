@@ -11,7 +11,7 @@ Black mosaic tiles, softly reflective champagne-gold motifs, and warm gold inter
 For **Omarchy 4 with Omarchy Shell**:
 
 ```sh
-omarchy theme install https://github.com/ejuro/omarchy-black-gold-mosaic-theme
+omarchy theme install https://github.com/erikrjohansson/omarchy-black-gold-mosaic-theme
 ```
 
 Use `omarchy theme bg next` to switch between the logo and wordmark wallpapers.
