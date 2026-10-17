@@ -1,6 +1,6 @@
 [bar]
 background = "#080808"
-background-alpha = 0.0
+background-alpha = 0.98
 text = "#E8D7B8"
 active = "#E8D7B8"
 scale-with-font = true
