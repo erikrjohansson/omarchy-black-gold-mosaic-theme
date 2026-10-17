@@ -4,8 +4,6 @@ Black mosaic tiles, softly reflective champagne-gold motifs, and warm gold inter
 
 ![Black Gold Mosaic — desktop preview with the wordmark wallpaper](preview.png)
 
-![Black Gold Mosaic — desktop preview with the logo wallpaper](preview-logo.png)
-
 ## Install
 
 For **Omarchy 4 with Omarchy Shell**:
